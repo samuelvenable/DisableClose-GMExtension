@@ -1,0 +1,1 @@
+window_set_close_enabled(window_handle(), !window_get_close_enabled(window_handle()));
